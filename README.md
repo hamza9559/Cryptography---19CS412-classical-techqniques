@@ -27,7 +27,6 @@ The cipher can, be adapted to an alphabet with any number of letters. All arithm
 
 
 ## PROGRAM:
-PROGRAM:
 ```c
 #include <stdio.h>
 #include <string.h>
@@ -114,10 +113,8 @@ int main() {
 
 ```
 ## OUTPUT:
-
 ![image](https://github.com/user-attachments/assets/5c6a9d12-085d-4827-af9a-d6de0a00fa1f)
 
 ## RESULT:
-
 The program is executed successfully.
 
