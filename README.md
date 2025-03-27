@@ -113,7 +113,6 @@ int main() {
 }
 
 ```
-
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/5c6a9d12-085d-4827-af9a-d6de0a00fa1f)
